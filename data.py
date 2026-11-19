@@ -1,10 +1,8 @@
-products = [
+users = [
     {
         "id":1,
-        "name":"Neeraj Kumar"
-    },
-    {
-        "id":2,
-        "name":"Mukesh Kumar"
+        "name":"Neeraj Kumar",
+        "email":"neeraj@gmail.com",
+        "age":26        
     }
 ]
